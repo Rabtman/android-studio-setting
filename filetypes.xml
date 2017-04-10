@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="daemon" type="C++" />
+      <mapping pattern="cyy928" type="PLAIN_TEXT" />
+      <mapping ext="ap_" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

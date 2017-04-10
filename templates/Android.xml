@@ -1,0 +1,17 @@
+<templateSet group="Android">
+  <template name="ctum" value="CommonUtil.uploadUMeng(t.getMessage(),&quot;&quot;);" description="upload umeng throwable" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ceum" value="CommonUtil.uploadUMeng(e.getMessage(),&quot; exception:&quot;);" description="upload umeng exception" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="cfum" value="CommonUtil.uploadUMeng(&quot;code:&quot; + response.code(),&quot; no success:&quot;);" description="upload umeng no success" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
