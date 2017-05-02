@@ -5,6 +5,7 @@
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
+    <option name="MAX_LOOKUP_WIDTH2" value="537" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="7" />
   </component>
 </application>
