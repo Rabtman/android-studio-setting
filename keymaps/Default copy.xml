@@ -6,9 +6,6 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
-  <action id="NewClass">
-    <keyboard-shortcut first-keystroke="shift j" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
