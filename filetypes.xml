@@ -6,6 +6,7 @@
       <mapping ext="ap_" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="arsc" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
