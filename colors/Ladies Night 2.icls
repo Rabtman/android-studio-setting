@@ -1,4 +1,5 @@
 <scheme name="Ladies Night 2" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
@@ -507,6 +508,27 @@
         <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7d8c93" />
+      </value>
+    </option>
+    <option name="KDOC_LINK">
+      <value>
+        <option name="FOREGROUND" value="6ca3c9" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="a082bd" />
+      </value>
+    </option>
+    <option name="KOTLIN_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7d8c93" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="93c763" />
@@ -535,6 +557,11 @@
         <option name="FOREGROUND" value="cb607b" />
         <option name="BACKGROUND" value="3c3e4b" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="METHOD_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f5f6e7" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
