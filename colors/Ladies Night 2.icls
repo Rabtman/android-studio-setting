@@ -1,4 +1,5 @@
 <scheme name="Ladies Night 2" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
@@ -505,6 +506,11 @@
     <option name="Instance property reference ID">
       <value>
         <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="a082bd" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
