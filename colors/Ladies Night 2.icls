@@ -529,6 +529,26 @@
         <option name="FOREGROUND" value="7d8c93" />
       </value>
     </option>
+    <option name="KOTLIN_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="3cffff" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_RECEIVER">
+      <value>
+        <option name="BACKGROUND" value="4a86e8" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value>
+        <option name="BACKGROUND" value="4a86e8" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CONSTANT">
+      <value>
+        <option name="BACKGROUND" value="4a86e8" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="93c763" />
