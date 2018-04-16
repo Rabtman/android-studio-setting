@@ -26,8 +26,12 @@
           <option name="url" value="git@github.com:Rabtman/HealthyCollection.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Rabtman/AcgClub.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Android\project\github" />
+    <option name="cloneParentDir" value="C:\work\my\github" />
   </component>
 </application>
