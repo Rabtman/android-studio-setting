@@ -1,0 +1,7 @@
+<templateSet group="custom">
+  <template name="header" value="/**&#10; * @author zhangjunming&#10; * @copyright 2018年 ShenZhen CheYouYuan Information Technology co. LTD. All rights reserved.&#10; */" description="add doc" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

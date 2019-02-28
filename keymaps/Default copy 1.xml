@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+  </action>
+</keymap>
