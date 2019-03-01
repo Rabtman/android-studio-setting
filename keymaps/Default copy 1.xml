@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
