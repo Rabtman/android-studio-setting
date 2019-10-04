@@ -3,7 +3,7 @@
     <property name="created">2019-03-19T09:44:30</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.3.2.0</property>
-    <property name="modified">2019-07-17T14:33:00</property>
+    <property name="modified">2019-10-04T21:47:26</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -20,9 +20,8 @@
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
-    <option name="FILESTATUS_SUPPRESSED" value="616161" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
