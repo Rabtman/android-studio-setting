@@ -2,7 +2,6 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Consolas" />
-    <option name="LINE_SPACING" value="1.1" />
     <option name="SECONDARY_FONT_FAMILY" value="Monospaced" />
   </component>
   <component name="EditorSettings">
