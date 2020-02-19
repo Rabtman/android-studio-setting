@@ -8,6 +8,7 @@
       <mapping ext="ap_" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="arsc" type="PLAIN_TEXT" />
+      <mapping pattern="acgmusic_shape_default_bg" type="XML" />
     </extensionMap>
   </component>
 </application>
