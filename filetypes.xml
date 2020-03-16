@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="daemon" type="C++" />
+      <mapping ext="aar" type="PATCH" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern="cyy928" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
