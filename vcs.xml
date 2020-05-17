@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/yanyiqun001/vlayoutdemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/li-xiaojun/XPopup.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\work\demo" />
