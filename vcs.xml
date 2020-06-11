@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/NanBox/NestedCalendar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/BzCoder/EasyGlide.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\work\demo" />
