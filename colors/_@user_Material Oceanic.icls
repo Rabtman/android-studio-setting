@@ -4,18 +4,9 @@
     <property name="created">2019-10-04T21:44:33</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.1.0</property>
-    <property name="modified">2019-10-04T21:47:26</property>
+    <property name="modified">2020-11-12T21:59:15</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Courier New" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -1043,7 +1034,6 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
