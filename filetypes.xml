@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="aar" type="AAR" />
       <mapping pattern="daemon" type="C++" />
+      <mapping ext="webp" type="Image" />
       <mapping ext="aar" type="PATCH" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern="cyy928" type="PLAIN_TEXT" />
