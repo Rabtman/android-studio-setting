@@ -167,9 +167,7 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views>
-      <option name="showLibraryStackFrames" value="false" />
-    </data-views>
+    <data-views />
     <general />
     <debuggers>
       <debugger id="kotlin_debugger">
