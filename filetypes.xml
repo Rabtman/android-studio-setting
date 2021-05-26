@@ -2,13 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="daemon" type="C++" />
-      <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern="cyy928" type="PLAIN_TEXT" />
-      <mapping ext="arsc" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
       <mapping ext="ap_" type="PLAIN_TEXT" />
+      <mapping ext="arsc" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping pattern="acgmusic_shape_default_bg" type="XML" />
     </extensionMap>
