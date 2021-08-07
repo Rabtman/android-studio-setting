@@ -11,6 +11,7 @@
       <mapping ext="arsc" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping pattern="acgmusic_shape_default_bg" type="XML" />
+      <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
