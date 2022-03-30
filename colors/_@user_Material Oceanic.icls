@@ -4,18 +4,18 @@
     <property name="created">2019-10-04T21:44:33</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.1.0</property>
-    <property name="modified">2022-03-29T22:18:08</property>
+    <property name="modified">2022-03-30T21:41:50</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
