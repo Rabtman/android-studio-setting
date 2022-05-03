@@ -82,9 +82,17 @@
           <option name="url" value="https://github.com/android/permissions-samples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.momoso.com/flutter/haffprice_flutter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.momoso.com/flutter/haffprice_flutter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\work\demo" />
+    <option name="cloneParentDir" value="C:\work\cloudmall" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
