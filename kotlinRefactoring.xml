@@ -1,0 +1,6 @@
+<application>
+  <component name="KotlinRefactoringSettings">
+    <option name="renameInheritors" value="false" />
+    <option name="renameVariables" value="false" />
+  </component>
+</application>
