@@ -4,8 +4,8 @@
       <mapping pattern="daemon" type="C++" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="cyy928" type="PLAIN_TEXT" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
+      <mapping pattern="cyy928" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
       <mapping ext="ap_" type="PLAIN_TEXT" />
       <mapping ext="arsc" type="PLAIN_TEXT" />
@@ -14,7 +14,6 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <mapping pattern="daemon" type="C++" />
     </extensionMap>
   </component>
 </application>
